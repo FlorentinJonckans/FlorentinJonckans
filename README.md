@@ -41,7 +41,8 @@ Table	| Syntax | Description |
 
 Fenced 
 
-Code Block	```{
+Code Block	
+```{
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
@@ -66,15 +67,17 @@ Task List
 - [ ] Update the website
 - [ ] Contact the media
 
-Emoji
-(see also Copying and Pasting Emoji)	That is so funny! :joy:
+Emoji (see also Copying and Pasting Emoji)	
+That is so funny! :joy:
 
-Highlight	I need to highlight these ==very important words==.
+Highlight	I need to highlight these 
+==very important words==.
 
-Subscript	H~2~O
+Subscript	
+H~2~O
 
-Superscript	X^2^
-
+Superscript	
+X^2^
 
 
 Latest Blog Posts
