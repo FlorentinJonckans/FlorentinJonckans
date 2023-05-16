@@ -1,7 +1,7 @@
 <h1 align="center">Florentin JONCKANS</h1>
 <h3 align="center"><i>French Front & Back-End Developper - Web Designer</i></h3>
 
-Hi there. I'm a 23 years old Front & Back-End Developper working from France. I have been attracted by computering since my high school days. During the last years, I've learned to program and get some graphic renderings through the use of various technologies.
+Hi there :wave:. I'm a 23 years old Front & Back-End Developper working from France :st_martin:. I have been attracted by computering :desktop_computer: since my high school days. During the last years, I've learned to program and get some graphic renderings through the use of various technologies :gear:.
 
 <h4>Programming languages I am familiar with :</h4>
 
@@ -11,7 +11,7 @@ Hi there. I'm a 23 years old Front & Back-End Developper working from France. I 
 
 I've been working with `Angular.js`, `React.js`and `Vue.js` since my first use of **frameworks**. And now, I'm focusing on **creating visual contents** and **websites** for French customers.
 
-If you have the opportunity to look at most of my projects, you will see that some technologies are used more than others.
+If you have the opportunity to look at most of my projects :open_file_folder:, you will see that some technologies are used more than others.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentinJonckans&langs_count=5)](https://github.com/FlorentinJonckans/github-readme-stats)
 
