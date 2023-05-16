@@ -52,14 +52,17 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-Heading ID	### My Great Heading {#custom-id}
+Heading ID	
+### My Great Heading {#custom-id}
 
-Definition List	term
-: definition
+Definition 
+List	term: definition
 
-Strikethrough	~~The world is flat.~~
+Strikethrough	
+~~The world is flat.~~
 
-Task List	- [x] Write the press release
+Task List	
+- [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 
