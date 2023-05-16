@@ -23,7 +23,7 @@ Unordered List
 - First item
 - Second item
 - Third item
-- 
+
 Code	`code`
 
 Horizontal Rule	
@@ -40,8 +40,8 @@ Table	| Syntax | Description |
 | Paragraph | Text |
 
 Fenced 
-Code Block	```
-{
+
+Code Block	```{
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
