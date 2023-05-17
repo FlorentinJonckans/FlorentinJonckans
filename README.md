@@ -13,6 +13,6 @@ I've been working with `Angular.js`, `React.js`and `Vue.js` since my first use o
 
 If you have the opportunity to look at most of my projects :open_file_folder:, you will see that some technologies are used more than others.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentinJonckans&langs_count=5)](https://github.com/FlorentinJonckans/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentinJonckans&langs_count=4)](https://github.com/FlorentinJonckans/github-readme-stats)
 
 ---
