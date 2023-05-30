@@ -29,7 +29,7 @@ Hi there :wave:. I'm a 23 years old Front & Back-End Developper working from Fra
 
 I've been working with `Angular.js`, `React.js` and `Vue.js` since my first use of **frameworks**. And now, I'm focusing on **creating visual contents** and **websites** for French customers.
 
-If you have the opportunity to look at most of my projects :open_file_folder:, you will see that some technologies are used more than others.
+If you have the opportunity to look at most of my projects :open_file_folder:, you will see that some technologies are more used than others.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentinJonckans&langs_count=4)](https://github.com/FlorentinJonckans/github-readme-stats)
 
