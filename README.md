@@ -14,7 +14,7 @@ Hi there :wave:. I'm a 23 years old Front & Back-End Developper working from Fra
     <td align="center"><b>Python</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg" width="100" height="100"> </td>
+    <td align="center"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100"> </td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="100" height="100"></td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="100" height="100"></td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="100" height="100"></td>
