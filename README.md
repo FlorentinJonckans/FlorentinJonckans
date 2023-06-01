@@ -1,5 +1,5 @@
 <h1 align="center">Florentin JONCKANS</h1>
-<h3 align="center"><i>French Front & Back-End Developper - Web Designer</i></h3>
+<h3 align="center"><i>French Front & Back-End Developper</i></h3>
 
 Hi there :wave:. I'm a 23 years old Front & Back-End Developper working from France :st_martin:. I have been attracted by computering :desktop_computer: since my high school days. During the last years, I've learned to program and get some graphic renderings through the use of various technologies :gear:.
 
