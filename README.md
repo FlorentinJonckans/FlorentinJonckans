@@ -29,7 +29,7 @@ I've been working with `Angular.js`, `React.js` and `Vue.js` since my first use 
 
 If you have the opportunity to look at most of my projects :open_file_folder:, you will see that some technologies are more used than others.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentinJonckans&langs_count=4"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorentinJonckans&show_icons=true&locale=en" alt="FlorentinJonckans"/></p><br>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FlorentinJonckans&langs_count=4"/></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FlorentinJonckans&show_icons=true&locale=en" alt="FlorentinJonckans"/></p><br>
 
 ---
