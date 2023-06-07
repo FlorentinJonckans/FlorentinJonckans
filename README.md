@@ -31,5 +31,3 @@ If you have the opportunity to look at most of my projects :open_file_folder:, y
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FlorentinJonckans&langs_count=4"/></p>
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FlorentinJonckans&show_icons=true&locale=en" alt="FlorentinJonckans"/></p><br>
-
----
