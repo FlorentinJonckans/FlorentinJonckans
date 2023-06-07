@@ -1,6 +1,7 @@
 <h1 align="center">Florentin JONCKANS</h1>
 <h3 align="center"><i>French Front & Back-End Developper</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FlorentinJonckans&label=Profile%20views&color=0e75b6&style=flat" alt="FlorentinJonckans" /></p>
+<p align="right"> <img src="https://www.codewars.com/users/FlorentinJonckans/badges/large)](https://www.codewars.com/users/FlorentinJonckans" alt="FlorentinJonckans" /></p>
 
 Hi there :wave:. I'm a 23 years old Front & Back-End Developper working from France :st_martin:. I have been attracted by computering :desktop_computer: since my high school days. During the last years, I've learned to program and get some graphic renderings through the use of various technologies :gear:.
 
