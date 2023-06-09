@@ -7,8 +7,13 @@
  <a target="_blank" href="https://linkedIn.com/in/florentin-jonckans" target="_blank">
    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:flo.j62@hotmail.fr">
+    <img alt="Email" src="https://img.shields.io/badge/@-flo.j62@hotmail.fr-ffcc00?&style=for-the-badge" />
+  </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FlorentinJonckans&label=Profile%20views&color=0e75b6&style=flat" alt="FlorentinJonckans" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FlorentinJonckans&label=Profile%20views&color=0e75b6&style=flat" alt="FlorentinJonckans" />
+</p>
 
 [![Codewars](https://www.codewars.com/users/FlorentinJonckans/badges/large)](https://www.codewars.com/users/FlorentinJonckans)
 
