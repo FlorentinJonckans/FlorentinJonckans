@@ -17,7 +17,7 @@
 
 [![Codewars](https://www.codewars.com/users/FlorentinJonckans/badges/large)](https://www.codewars.com/users/FlorentinJonckans)
 
-Hi there :wave:. I'm a 23 years old Front & Back-End Developper working from France :st_martin:. I have been attracted by computering :desktop_computer: since my high school days. During the last years, I've learned to program and get some graphic renderings through the use of various technologies :gear:.
+Hi there :wave:. I'm a 23 years old Front & Back-End Developper working from France. I have been attracted by computering :desktop_computer: since my high school days. During the last years, I've learned to program and get some graphic renderings through the use of various technologies :gear:.
 
 <h4>Programming languages I am familiar with :</h4>
 
